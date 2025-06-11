@@ -1,0 +1,525 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://sina-goettmann.de" ftp_rootfolder="/html/mohaupt" exportTarget="FTP" domain="www.mohaupt-dolmetschen.de" resolutions="1x" timestamp="1644338196255">
+  <folder name="css">
+    <file name="site_global.css" crc="167499903"/>
+    <file name="master_master-en.css" crc="101733690" ref="en:privacy-policy:legal-notice"/>
+    <file name="nomq_preview_master_master-en.css" crc="224600927" ref="en:privacy-policy:legal-notice"/>
+    <file name="master_master-d.css" crc="4181196476" ref="impressum:index:datenschutz"/>
+    <file name="nomq_preview_master_master-d.css" crc="477335527" ref="impressum:index:datenschutz"/>
+    <file name="impressum.css" crc="293258042" ref="impressum"/>
+    <file name="nomq_impressum.css" crc="4192258696" ref="impressum"/>
+    <file name="en.css" crc="3965447723" ref="en"/>
+    <file name="nomq_en.css" crc="4117298709" ref="en"/>
+    <file name="index.css" crc="440920742" ref="index"/>
+    <file name="nomq_index.css" crc="4184856438" ref="index"/>
+    <file name="privacy-policy.css" crc="236759849" ref="privacy-policy"/>
+    <file name="nomq_privacy-policy.css" crc="407759127" ref="privacy-policy"/>
+    <file name="datenschutz.css" crc="4105262090" ref="datenschutz"/>
+    <file name="nomq_datenschutz.css" crc="4219735187" ref="datenschutz"/>
+    <file name="legal-notice.css" crc="214691766" ref="legal-notice"/>
+    <file name="nomq_legal-notice.css" crc="176033949" ref="legal-notice"/>
+  </folder>
+  <folder name="fonts">
+    <file name="fa-solid-9001.woff" crc="3940956581"/>
+    <file name="fa-solid-9001.eot" crc="90051872"/>
+    <file name="fa-solid-9001.svg" crc="529533036"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:datenschutz:impressum:en:legal-notice:privacy-policy"/>
+    <file name="museutils.js" crc="3939489907" ref="index:datenschutz:impressum:en:legal-notice:privacy-policy"/>
+    <file name="whatinput.js" crc="86476730" ref="index:datenschutz:impressum:en:legal-notice:privacy-policy"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:datenschutz:impressum:en:legal-notice:privacy-policy"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:en"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:datenschutz:impressum:en:legal-notice:privacy-policy"/>
+    <file name="webpro.js" crc="3856315280" ref="index:datenschutz:impressum:en:legal-notice:privacy-policy"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:datenschutz:impressum:en:legal-notice:privacy-policy"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:datenschutz:impressum:en:legal-notice:privacy-policy"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:datenschutz:impressum:en:legal-notice:privacy-policy"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index:en"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:datenschutz:impressum:en:legal-notice:privacy-policy"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:datenschutz:impressum:en:legal-notice:privacy-policy"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:datenschutz:impressum:en:legal-notice:privacy-policy"/>
+    <file name="require.js" crc="4177726516" ref="index:datenschutz:impressum:en:legal-notice:privacy-policy"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3843690346" ref="index"/>
+    <file name="sina_mohaupt_dolmetschen_header.jpg" crc="3939536737" ref="index:en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="en" alt=""/>
+    </file>
+    <file name="sina_mohaupt_signet_color.svg" crc="251776381" seo="true" ref="index:en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+    </file>
+    <file name="sina_mohaupt_signet_color_poster_.png" crc="55095070" ref="index"/>
+    <file name="mitgliedslogo_vkd_de.svg" crc="473797078" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mitgliedslogo_vkd_de_poster_.png" crc="351831389" ref="index"/>
+    <file name="sina_mohaupt_signet_white_x2.svg" crc="4150066541" seo="true" ref="index:en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+    </file>
+    <file name="sina_mohaupt_signet_white_x2_poster_.png" crc="4179057771" ref="index"/>
+    <file name="sina_mohaupt_signet_color-de_en.svg" crc="3982059556" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sina_mohaupt_signet_color de_en_poster_.png" crc="172249575" ref="index"/>
+    <file name="sina_mohaupt_konferenzdolmetschen.jpg" crc="525396628" ref="index:en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="en" alt=""/>
+    </file>
+    <file name="sina_mohaupt_icon_02.png" crc="435646045" ref="index:en">
+      <caption webpage="index" alt="Simultandolmetschen für größere Veranstaltungen,  Konferenzen, Kongresse  oder Seminare/Workshops"/>
+      <caption webpage="index" alt="FLÜSTERdolmetschen für kleinere Gruppen  von bis zu 15 Teilnehmern"/>
+      <caption webpage="index" alt="Konsekutivdolmetschen für Tisch- oder Empfangsreden,  festliche Anlässe"/>
+      <caption webpage="index" alt="Verhandlungsdolmetschen für Telefonkonferenzen, Gesprächs-  und Verhandlungssituationen  im kleineren Kreis "/>
+      <caption webpage="index" alt="Simultandolmetschen für größere Veranstaltungen,  Konferenzen, Kongresse  oder Seminare/Workshops"/>
+      <caption webpage="index" alt="FLÜSTERdolmetschen für kleinere Gruppen  von bis zu 15 Teilnehmern"/>
+      <caption webpage="index" alt="Konsekutivdolmetschen für Tisch- oder Empfangsreden,  festliche Anlässe"/>
+      <caption webpage="index" alt="Verhandlungsdolmetschen für Telefonkonferenzen, Gesprächs-  und Verhandlungssituationen  im kleineren Kreis "/>
+      <caption webpage="index" alt="Simultandolmetschen für größere Veranstaltungen,  Konferenzen, Kongresse  oder Seminare/Workshops"/>
+      <caption webpage="index" alt="FLÜSTERdolmetschen für kleinere Gruppen  von bis zu 15 Teilnehmern"/>
+      <caption webpage="index" alt="Konsekutivdolmetschen für Tisch- oder Empfangsreden,  festliche Anlässe"/>
+      <caption webpage="index" alt="Verhandlungsdolmetschen für Telefonkonferenzen, Gesprächs-  und Verhandlungssituationen  im kleineren Kreis "/>
+      <caption webpage="index" alt="Simultandolmetschen für größere Veranstaltungen,  Konferenzen, Kongresse  oder Seminare/Workshops"/>
+      <caption webpage="index" alt="FLÜSTERdolmetschen für kleinere Gruppen  von bis zu 15 Teilnehmern"/>
+      <caption webpage="index" alt="Konsekutivdolmetschen für Tisch- oder Empfangsreden,  festliche Anlässe"/>
+      <caption webpage="index" alt="Verhandlungsdolmetschen für Telefonkonferenzen, Gesprächs-  und Verhandlungssituationen  im kleineren Kreis "/>
+      <caption webpage="index" alt="Simultandolmetschen für größere Veranstaltungen,  Konferenzen, Kongresse  oder Seminare/Workshops"/>
+      <caption webpage="index" alt="FLÜSTERdolmetschen für kleinere Gruppen  von bis zu 15 Teilnehmern"/>
+      <caption webpage="index" alt="Konsekutivdolmetschen für Tisch- oder Empfangsreden,  festliche Anlässe"/>
+      <caption webpage="index" alt="Verhandlungsdolmetschen für Telefonkonferenzen, Gesprächs-  und Verhandlungssituationen  im kleineren Kreis "/>
+      <caption webpage="index" alt="Simultandolmetschen für größere Veranstaltungen,  Konferenzen, Kongresse  oder Seminare/Workshops"/>
+      <caption webpage="index" alt="FLÜSTERdolmetschen für kleinere Gruppen  von bis zu 15 Teilnehmern"/>
+      <caption webpage="index" alt="Konsekutivdolmetschen für Tisch- oder Empfangsreden,  festliche Anlässe"/>
+      <caption webpage="index" alt="Verhandlungsdolmetschen für Telefonkonferenzen, Gesprächs-  und Verhandlungssituationen  im kleineren Kreis "/>
+      <caption webpage="en" alt="Simultaneous interpreting For larger events,  conferences  or seminars/workshops"/>
+      <caption webpage="en" alt="Whisper interpreting (chuchotage) For smaller groups  of up to 15 people"/>
+      <caption webpage="en" alt="Consecutive interpreting For toasts and reception speeches,  special occasions"/>
+      <caption webpage="en" alt="Liaison interpreting For telephone conferences,  discussions and negotiations  in smaller groups "/>
+      <caption webpage="en" alt="Simultaneous interpreting For larger events,  conferences  or seminars/workshops"/>
+      <caption webpage="en" alt="Whisper interpreting (chuchotage) For smaller groups  of up to 15 people"/>
+      <caption webpage="en" alt="Consecutive interpreting For toasts and reception speeches,  special occasions"/>
+      <caption webpage="en" alt="Liaison interpreting For telephone conferences,  discussions and negotiations  in smaller groups "/>
+      <caption webpage="en" alt="Simultaneous interpreting For larger events,  conferences  or seminars/workshops"/>
+      <caption webpage="en" alt="Whisper interpreting (chuchotage) For smaller groups  of up to 15 people"/>
+      <caption webpage="en" alt="Consecutive interpreting For toasts and reception speeches,  special occasions"/>
+      <caption webpage="en" alt="Liaison interpreting For telephone conferences,  discussions and negotiations  in smaller groups "/>
+      <caption webpage="en" alt="Simultaneous interpreting For larger events,  conferences  or seminars/workshops"/>
+      <caption webpage="en" alt="Whisper interpreting (chuchotage) For smaller groups  of up to 15 people"/>
+      <caption webpage="en" alt="Consecutive interpreting For toasts and reception speeches,  special occasions"/>
+      <caption webpage="en" alt="Liaison interpreting For telephone conferences,  discussions and negotiations  in smaller groups "/>
+      <caption webpage="en" alt="Simultaneous interpreting For larger events,  conferences  or seminars/workshops"/>
+      <caption webpage="en" alt="Whisper interpreting (chuchotage) For smaller groups  of up to 15 people"/>
+      <caption webpage="en" alt="Consecutive interpreting For toasts and reception speeches,  special occasions"/>
+      <caption webpage="en" alt="Liaison interpreting For telephone conferences,  discussions and negotiations  in smaller groups "/>
+      <caption webpage="en" alt="Simultaneous interpreting For larger events,  conferences  or seminars/workshops"/>
+      <caption webpage="en" alt="Whisper interpreting (chuchotage) For smaller groups  of up to 15 people"/>
+      <caption webpage="en" alt="Consecutive interpreting For toasts and reception speeches,  special occasions"/>
+      <caption webpage="en" alt="Liaison interpreting For telephone conferences,  discussions and negotiations  in smaller groups "/>
+    </file>
+    <file name="sina_mohaupt_icon_03.png" crc="3804563256" ref="index:en">
+      <caption webpage="index" alt="Simultandolmetschen für größere Veranstaltungen,  Konferenzen, Kongresse  oder Seminare/Workshops"/>
+      <caption webpage="index" alt="Simultandolmetschen für größere Veranstaltungen,  Konferenzen, Kongresse  oder Seminare/Workshops"/>
+      <caption webpage="index" alt="FLÜSTERdolmetschen für kleinere Gruppen  von bis zu 15 Teilnehmern"/>
+      <caption webpage="index" alt="FLÜSTERdolmetschen für kleinere Gruppen  von bis zu 15 Teilnehmern"/>
+      <caption webpage="index" alt="Konsekutivdolmetschen für Tisch- oder Empfangsreden,  festliche Anlässe"/>
+      <caption webpage="index" alt="Konsekutivdolmetschen für Tisch- oder Empfangsreden,  festliche Anlässe"/>
+      <caption webpage="index" alt="Verhandlungsdolmetschen für Telefonkonferenzen, Gesprächs-  und Verhandlungssituationen  im kleineren Kreis "/>
+      <caption webpage="index" alt="Verhandlungsdolmetschen für Telefonkonferenzen, Gesprächs-  und Verhandlungssituationen  im kleineren Kreis "/>
+      <caption webpage="index" alt="Simultandolmetschen für größere Veranstaltungen,  Konferenzen, Kongresse  oder Seminare/Workshops"/>
+      <caption webpage="index" alt="Simultandolmetschen für größere Veranstaltungen,  Konferenzen, Kongresse  oder Seminare/Workshops"/>
+      <caption webpage="index" alt="FLÜSTERdolmetschen für kleinere Gruppen  von bis zu 15 Teilnehmern"/>
+      <caption webpage="index" alt="FLÜSTERdolmetschen für kleinere Gruppen  von bis zu 15 Teilnehmern"/>
+      <caption webpage="index" alt="Konsekutivdolmetschen für Tisch- oder Empfangsreden,  festliche Anlässe"/>
+      <caption webpage="index" alt="Konsekutivdolmetschen für Tisch- oder Empfangsreden,  festliche Anlässe"/>
+      <caption webpage="index" alt="Verhandlungsdolmetschen für Telefonkonferenzen, Gesprächs-  und Verhandlungssituationen  im kleineren Kreis "/>
+      <caption webpage="index" alt="Verhandlungsdolmetschen für Telefonkonferenzen, Gesprächs-  und Verhandlungssituationen  im kleineren Kreis "/>
+      <caption webpage="index" alt="Simultandolmetschen für größere Veranstaltungen,  Konferenzen, Kongresse  oder Seminare/Workshops"/>
+      <caption webpage="index" alt="Simultandolmetschen für größere Veranstaltungen,  Konferenzen, Kongresse  oder Seminare/Workshops"/>
+      <caption webpage="index" alt="FLÜSTERdolmetschen für kleinere Gruppen  von bis zu 15 Teilnehmern"/>
+      <caption webpage="index" alt="FLÜSTERdolmetschen für kleinere Gruppen  von bis zu 15 Teilnehmern"/>
+      <caption webpage="index" alt="Konsekutivdolmetschen für Tisch- oder Empfangsreden,  festliche Anlässe"/>
+      <caption webpage="index" alt="Konsekutivdolmetschen für Tisch- oder Empfangsreden,  festliche Anlässe"/>
+      <caption webpage="index" alt="Verhandlungsdolmetschen für Telefonkonferenzen, Gesprächs-  und Verhandlungssituationen  im kleineren Kreis "/>
+      <caption webpage="index" alt="Verhandlungsdolmetschen für Telefonkonferenzen, Gesprächs-  und Verhandlungssituationen  im kleineren Kreis "/>
+      <caption webpage="index" alt="Simultandolmetschen für größere Veranstaltungen,  Konferenzen, Kongresse  oder Seminare/Workshops"/>
+      <caption webpage="index" alt="Simultandolmetschen für größere Veranstaltungen,  Konferenzen, Kongresse  oder Seminare/Workshops"/>
+      <caption webpage="index" alt="FLÜSTERdolmetschen für kleinere Gruppen  von bis zu 15 Teilnehmern"/>
+      <caption webpage="index" alt="FLÜSTERdolmetschen für kleinere Gruppen  von bis zu 15 Teilnehmern"/>
+      <caption webpage="index" alt="Konsekutivdolmetschen für Tisch- oder Empfangsreden,  festliche Anlässe"/>
+      <caption webpage="index" alt="Konsekutivdolmetschen für Tisch- oder Empfangsreden,  festliche Anlässe"/>
+      <caption webpage="index" alt="Verhandlungsdolmetschen für Telefonkonferenzen, Gesprächs-  und Verhandlungssituationen  im kleineren Kreis "/>
+      <caption webpage="index" alt="Verhandlungsdolmetschen für Telefonkonferenzen, Gesprächs-  und Verhandlungssituationen  im kleineren Kreis "/>
+      <caption webpage="index" alt="Simultandolmetschen für größere Veranstaltungen,  Konferenzen, Kongresse  oder Seminare/Workshops"/>
+      <caption webpage="index" alt="Simultandolmetschen für größere Veranstaltungen,  Konferenzen, Kongresse  oder Seminare/Workshops"/>
+      <caption webpage="index" alt="FLÜSTERdolmetschen für kleinere Gruppen  von bis zu 15 Teilnehmern"/>
+      <caption webpage="index" alt="FLÜSTERdolmetschen für kleinere Gruppen  von bis zu 15 Teilnehmern"/>
+      <caption webpage="index" alt="Konsekutivdolmetschen für Tisch- oder Empfangsreden,  festliche Anlässe"/>
+      <caption webpage="index" alt="Konsekutivdolmetschen für Tisch- oder Empfangsreden,  festliche Anlässe"/>
+      <caption webpage="index" alt="Verhandlungsdolmetschen für Telefonkonferenzen, Gesprächs-  und Verhandlungssituationen  im kleineren Kreis "/>
+      <caption webpage="index" alt="Verhandlungsdolmetschen für Telefonkonferenzen, Gesprächs-  und Verhandlungssituationen  im kleineren Kreis "/>
+      <caption webpage="index" alt="Simultandolmetschen für größere Veranstaltungen,  Konferenzen, Kongresse  oder Seminare/Workshops"/>
+      <caption webpage="index" alt="Simultandolmetschen für größere Veranstaltungen,  Konferenzen, Kongresse  oder Seminare/Workshops"/>
+      <caption webpage="index" alt="FLÜSTERdolmetschen für kleinere Gruppen  von bis zu 15 Teilnehmern"/>
+      <caption webpage="index" alt="FLÜSTERdolmetschen für kleinere Gruppen  von bis zu 15 Teilnehmern"/>
+      <caption webpage="index" alt="Konsekutivdolmetschen für Tisch- oder Empfangsreden,  festliche Anlässe"/>
+      <caption webpage="index" alt="Konsekutivdolmetschen für Tisch- oder Empfangsreden,  festliche Anlässe"/>
+      <caption webpage="index" alt="Verhandlungsdolmetschen für Telefonkonferenzen, Gesprächs-  und Verhandlungssituationen  im kleineren Kreis "/>
+      <caption webpage="index" alt="Verhandlungsdolmetschen für Telefonkonferenzen, Gesprächs-  und Verhandlungssituationen  im kleineren Kreis "/>
+      <caption webpage="en" alt="Simultaneous interpreting For larger events,  conferences  or seminars/workshops"/>
+      <caption webpage="en" alt="Simultaneous interpreting For larger events,  conferences  or seminars/workshops"/>
+      <caption webpage="en" alt="Whisper interpreting (chuchotage) For smaller groups  of up to 15 people"/>
+      <caption webpage="en" alt="Whisper interpreting (chuchotage) For smaller groups  of up to 15 people"/>
+      <caption webpage="en" alt="Consecutive interpreting For toasts and reception speeches,  special occasions"/>
+      <caption webpage="en" alt="Consecutive interpreting For toasts and reception speeches,  special occasions"/>
+      <caption webpage="en" alt="Liaison interpreting For telephone conferences,  discussions and negotiations  in smaller groups "/>
+      <caption webpage="en" alt="Liaison interpreting For telephone conferences,  discussions and negotiations  in smaller groups "/>
+      <caption webpage="en" alt="Simultaneous interpreting For larger events,  conferences  or seminars/workshops"/>
+      <caption webpage="en" alt="Simultaneous interpreting For larger events,  conferences  or seminars/workshops"/>
+      <caption webpage="en" alt="Whisper interpreting (chuchotage) For smaller groups  of up to 15 people"/>
+      <caption webpage="en" alt="Whisper interpreting (chuchotage) For smaller groups  of up to 15 people"/>
+      <caption webpage="en" alt="Consecutive interpreting For toasts and reception speeches,  special occasions"/>
+      <caption webpage="en" alt="Consecutive interpreting For toasts and reception speeches,  special occasions"/>
+      <caption webpage="en" alt="Liaison interpreting For telephone conferences,  discussions and negotiations  in smaller groups "/>
+      <caption webpage="en" alt="Liaison interpreting For telephone conferences,  discussions and negotiations  in smaller groups "/>
+      <caption webpage="en" alt="Simultaneous interpreting For larger events,  conferences  or seminars/workshops"/>
+      <caption webpage="en" alt="Simultaneous interpreting For larger events,  conferences  or seminars/workshops"/>
+      <caption webpage="en" alt="Whisper interpreting (chuchotage) For smaller groups  of up to 15 people"/>
+      <caption webpage="en" alt="Whisper interpreting (chuchotage) For smaller groups  of up to 15 people"/>
+      <caption webpage="en" alt="Consecutive interpreting For toasts and reception speeches,  special occasions"/>
+      <caption webpage="en" alt="Consecutive interpreting For toasts and reception speeches,  special occasions"/>
+      <caption webpage="en" alt="Liaison interpreting For telephone conferences,  discussions and negotiations  in smaller groups "/>
+      <caption webpage="en" alt="Liaison interpreting For telephone conferences,  discussions and negotiations  in smaller groups "/>
+      <caption webpage="en" alt="Simultaneous interpreting For larger events,  conferences  or seminars/workshops"/>
+      <caption webpage="en" alt="Simultaneous interpreting For larger events,  conferences  or seminars/workshops"/>
+      <caption webpage="en" alt="Whisper interpreting (chuchotage) For smaller groups  of up to 15 people"/>
+      <caption webpage="en" alt="Whisper interpreting (chuchotage) For smaller groups  of up to 15 people"/>
+      <caption webpage="en" alt="Consecutive interpreting For toasts and reception speeches,  special occasions"/>
+      <caption webpage="en" alt="Consecutive interpreting For toasts and reception speeches,  special occasions"/>
+      <caption webpage="en" alt="Liaison interpreting For telephone conferences,  discussions and negotiations  in smaller groups "/>
+      <caption webpage="en" alt="Liaison interpreting For telephone conferences,  discussions and negotiations  in smaller groups "/>
+      <caption webpage="en" alt="Simultaneous interpreting For larger events,  conferences  or seminars/workshops"/>
+      <caption webpage="en" alt="Simultaneous interpreting For larger events,  conferences  or seminars/workshops"/>
+      <caption webpage="en" alt="Whisper interpreting (chuchotage) For smaller groups  of up to 15 people"/>
+      <caption webpage="en" alt="Whisper interpreting (chuchotage) For smaller groups  of up to 15 people"/>
+      <caption webpage="en" alt="Consecutive interpreting For toasts and reception speeches,  special occasions"/>
+      <caption webpage="en" alt="Consecutive interpreting For toasts and reception speeches,  special occasions"/>
+      <caption webpage="en" alt="Liaison interpreting For telephone conferences,  discussions and negotiations  in smaller groups "/>
+      <caption webpage="en" alt="Liaison interpreting For telephone conferences,  discussions and negotiations  in smaller groups "/>
+      <caption webpage="en" alt="Simultaneous interpreting For larger events,  conferences  or seminars/workshops"/>
+      <caption webpage="en" alt="Simultaneous interpreting For larger events,  conferences  or seminars/workshops"/>
+      <caption webpage="en" alt="Whisper interpreting (chuchotage) For smaller groups  of up to 15 people"/>
+      <caption webpage="en" alt="Whisper interpreting (chuchotage) For smaller groups  of up to 15 people"/>
+      <caption webpage="en" alt="Consecutive interpreting For toasts and reception speeches,  special occasions"/>
+      <caption webpage="en" alt="Consecutive interpreting For toasts and reception speeches,  special occasions"/>
+      <caption webpage="en" alt="Liaison interpreting For telephone conferences,  discussions and negotiations  in smaller groups "/>
+      <caption webpage="en" alt="Liaison interpreting For telephone conferences,  discussions and negotiations  in smaller groups "/>
+    </file>
+    <file name="sina_mohaupt_icon_01.png" crc="4040855757" ref="index:en">
+      <caption webpage="index" alt="Simultandolmetschen für größere Veranstaltungen,  Konferenzen, Kongresse  oder Seminare/Workshops"/>
+      <caption webpage="index" alt="FLÜSTERdolmetschen für kleinere Gruppen  von bis zu 15 Teilnehmern"/>
+      <caption webpage="index" alt="Konsekutivdolmetschen für Tisch- oder Empfangsreden,  festliche Anlässe"/>
+      <caption webpage="index" alt="Verhandlungsdolmetschen für Telefonkonferenzen, Gesprächs-  und Verhandlungssituationen  im kleineren Kreis "/>
+      <caption webpage="index" alt="Simultandolmetschen für größere Veranstaltungen,  Konferenzen, Kongresse  oder Seminare/Workshops"/>
+      <caption webpage="index" alt="FLÜSTERdolmetschen für kleinere Gruppen  von bis zu 15 Teilnehmern"/>
+      <caption webpage="index" alt="Konsekutivdolmetschen für Tisch- oder Empfangsreden,  festliche Anlässe"/>
+      <caption webpage="index" alt="Verhandlungsdolmetschen für Telefonkonferenzen, Gesprächs-  und Verhandlungssituationen  im kleineren Kreis "/>
+      <caption webpage="index" alt="Simultandolmetschen für größere Veranstaltungen,  Konferenzen, Kongresse  oder Seminare/Workshops"/>
+      <caption webpage="index" alt="FLÜSTERdolmetschen für kleinere Gruppen  von bis zu 15 Teilnehmern"/>
+      <caption webpage="index" alt="Konsekutivdolmetschen für Tisch- oder Empfangsreden,  festliche Anlässe"/>
+      <caption webpage="index" alt="Verhandlungsdolmetschen für Telefonkonferenzen, Gesprächs-  und Verhandlungssituationen  im kleineren Kreis "/>
+      <caption webpage="index" alt="Simultandolmetschen für größere Veranstaltungen,  Konferenzen, Kongresse  oder Seminare/Workshops"/>
+      <caption webpage="index" alt="FLÜSTERdolmetschen für kleinere Gruppen  von bis zu 15 Teilnehmern"/>
+      <caption webpage="index" alt="Konsekutivdolmetschen für Tisch- oder Empfangsreden,  festliche Anlässe"/>
+      <caption webpage="index" alt="Verhandlungsdolmetschen für Telefonkonferenzen, Gesprächs-  und Verhandlungssituationen  im kleineren Kreis "/>
+      <caption webpage="index" alt="Simultandolmetschen für größere Veranstaltungen,  Konferenzen, Kongresse  oder Seminare/Workshops"/>
+      <caption webpage="index" alt="FLÜSTERdolmetschen für kleinere Gruppen  von bis zu 15 Teilnehmern"/>
+      <caption webpage="index" alt="Konsekutivdolmetschen für Tisch- oder Empfangsreden,  festliche Anlässe"/>
+      <caption webpage="index" alt="Verhandlungsdolmetschen für Telefonkonferenzen, Gesprächs-  und Verhandlungssituationen  im kleineren Kreis "/>
+      <caption webpage="index" alt="Simultandolmetschen für größere Veranstaltungen,  Konferenzen, Kongresse  oder Seminare/Workshops"/>
+      <caption webpage="index" alt="FLÜSTERdolmetschen für kleinere Gruppen  von bis zu 15 Teilnehmern"/>
+      <caption webpage="index" alt="Konsekutivdolmetschen für Tisch- oder Empfangsreden,  festliche Anlässe"/>
+      <caption webpage="index" alt="Verhandlungsdolmetschen für Telefonkonferenzen, Gesprächs-  und Verhandlungssituationen  im kleineren Kreis "/>
+      <caption webpage="en" alt="Simultaneous interpreting For larger events,  conferences  or seminars/workshops"/>
+      <caption webpage="en" alt="Whisper interpreting (chuchotage) For smaller groups  of up to 15 people"/>
+      <caption webpage="en" alt="Consecutive interpreting For toasts and reception speeches,  special occasions"/>
+      <caption webpage="en" alt="Liaison interpreting For telephone conferences,  discussions and negotiations  in smaller groups "/>
+      <caption webpage="en" alt="Simultaneous interpreting For larger events,  conferences  or seminars/workshops"/>
+      <caption webpage="en" alt="Whisper interpreting (chuchotage) For smaller groups  of up to 15 people"/>
+      <caption webpage="en" alt="Consecutive interpreting For toasts and reception speeches,  special occasions"/>
+      <caption webpage="en" alt="Liaison interpreting For telephone conferences,  discussions and negotiations  in smaller groups "/>
+      <caption webpage="en" alt="Simultaneous interpreting For larger events,  conferences  or seminars/workshops"/>
+      <caption webpage="en" alt="Whisper interpreting (chuchotage) For smaller groups  of up to 15 people"/>
+      <caption webpage="en" alt="Consecutive interpreting For toasts and reception speeches,  special occasions"/>
+      <caption webpage="en" alt="Liaison interpreting For telephone conferences,  discussions and negotiations  in smaller groups "/>
+      <caption webpage="en" alt="Simultaneous interpreting For larger events,  conferences  or seminars/workshops"/>
+      <caption webpage="en" alt="Whisper interpreting (chuchotage) For smaller groups  of up to 15 people"/>
+      <caption webpage="en" alt="Consecutive interpreting For toasts and reception speeches,  special occasions"/>
+      <caption webpage="en" alt="Liaison interpreting For telephone conferences,  discussions and negotiations  in smaller groups "/>
+      <caption webpage="en" alt="Simultaneous interpreting For larger events,  conferences  or seminars/workshops"/>
+      <caption webpage="en" alt="Whisper interpreting (chuchotage) For smaller groups  of up to 15 people"/>
+      <caption webpage="en" alt="Consecutive interpreting For toasts and reception speeches,  special occasions"/>
+      <caption webpage="en" alt="Liaison interpreting For telephone conferences,  discussions and negotiations  in smaller groups "/>
+      <caption webpage="en" alt="Simultaneous interpreting For larger events,  conferences  or seminars/workshops"/>
+      <caption webpage="en" alt="Whisper interpreting (chuchotage) For smaller groups  of up to 15 people"/>
+      <caption webpage="en" alt="Consecutive interpreting For toasts and reception speeches,  special occasions"/>
+      <caption webpage="en" alt="Liaison interpreting For telephone conferences,  discussions and negotiations  in smaller groups "/>
+    </file>
+    <file name="sina_mohaupt_signet_white_bg.svg" crc="381764524" ref="index:en"/>
+    <file name="sina_mohaupt_signet_white_bg_poster_u80922.png" crc="358548367" ref="index:en"/>
+    <file name="sina_mohaupt_portrait.jpg" crc="4012303763" ref="index:en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="en" alt=""/>
+    </file>
+    <file name="sina_mohaupt_konferenzdolmetschen_2_neu.jpg" crc="410563470" ref="index:en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="en" alt=""/>
+    </file>
+    <file name="sina_mohaupt_logo_color.svg" crc="4226746038" seo="true" ref="index:datenschutz:impressum:en:legal-notice:privacy-policy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="legal-notice" alt=""/>
+      <caption webpage="legal-notice" alt=""/>
+      <caption webpage="legal-notice" alt=""/>
+      <caption webpage="legal-notice" alt=""/>
+      <caption webpage="legal-notice" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="datenschutz" alt=""/>
+      <caption webpage="datenschutz" alt=""/>
+      <caption webpage="datenschutz" alt=""/>
+      <caption webpage="datenschutz" alt=""/>
+      <caption webpage="datenschutz" alt=""/>
+    </file>
+    <file name="sina_mohaupt_logo_color_poster_.png" crc="3908173075" ref="index"/>
+    <file name="sina_mohaupt_signet_white.svg" crc="328094713" seo="true" ref="index:datenschutz:impressum:en:legal-notice:privacy-policy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="legal-notice" alt=""/>
+      <caption webpage="legal-notice" alt=""/>
+      <caption webpage="legal-notice" alt=""/>
+      <caption webpage="legal-notice" alt=""/>
+      <caption webpage="legal-notice" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="datenschutz" alt=""/>
+      <caption webpage="datenschutz" alt=""/>
+      <caption webpage="datenschutz" alt=""/>
+      <caption webpage="datenschutz" alt=""/>
+      <caption webpage="datenschutz" alt=""/>
+    </file>
+    <file name="sina_mohaupt_signet_white_poster_.png" crc="282552191" ref="index"/>
+    <file name="sina_mohaupt_konferenzdolmetschen-u4334-fr.jpg" crc="3843527411" ref="index:en"/>
+    <file name="sina_mohaupt_portrait-u6421-fr.jpg" crc="4199911423" ref="index:en"/>
+    <file name="sina_mohaupt_konferenzdolmetschen-u4334-fr2.jpg" crc="441324006" ref="index:en"/>
+    <file name="sina_mohaupt_portrait-u6421-fr2.jpg" crc="351827357" ref="index:en"/>
+    <file name="sina_mohaupt_konferenzdolmetschen_2_neu-u682-fr.jpg" crc="361563400" ref="index:en"/>
+    <file name="sina_mohaupt_dolmetschen_header-buttonu292-fr.jpg" crc="4256066413" ref="index:en"/>
+    <file name="sina_mohaupt_konferenzdolmetschen-u4334-fr3.jpg" crc="3984821615" ref="index:en"/>
+    <file name="sina_mohaupt_portrait-u6421-fr3.jpg" crc="279442666" ref="index:en"/>
+    <file name="sina_mohaupt_konferenzdolmetschen_2_neu-u682-fr2.jpg" crc="30112816" ref="index:en"/>
+    <file name="sina_mohaupt_dolmetschen_header-buttonu292-fr2.jpg" crc="3870985253" ref="index:en"/>
+    <file name="sina_mohaupt_portrait-u6421-fr4.jpg" crc="3931257898" ref="index:en"/>
+    <file name="sina_mohaupt_konferenzdolmetschen_2_neu-u682-fr3.jpg" crc="4079585414" ref="index:en"/>
+    <file name="sina_mohaupt_dolmetschen_header-buttonu292-fr3.jpg" crc="88728835" ref="index:en"/>
+    <file name="sina_mohaupt_konferenzdolmetschen-u4334-fr4.jpg" crc="461287028" ref="index:en"/>
+    <file name="sina_mohaupt_portrait-u6421-fr5.jpg" crc="404650201" ref="index:en"/>
+    <file name="sina_mohaupt_konferenzdolmetschen_2_neu-u682-fr4.jpg" crc="141403594" ref="index:en"/>
+    <file name="blank.gif" crc="4208392903" ref="index:datenschutz:impressum:en:legal-notice:privacy-policy"/>
+    <file name="mitgliedslogo_vkd_en.svg" crc="4020039103" seo="true" ref="en">
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+    </file>
+    <file name="mitgliedslogo_vkd_en_poster_.png" crc="137830813" ref="en"/>
+    <file name="sina_mohaupt_signet_color-ger_en.svg" crc="393588096" seo="true" ref="en">
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+    </file>
+    <file name="sina_mohaupt_signet_color ger_en_poster_.png" crc="4161768997" ref="en"/>
+  </folder>
+  <file name="index.html" crc="186524030" seo="true" mt="1644337494720" redirect="true"/>
+  <file name="datenschutz.html" crc="30766503" seo="true" mt="1644337494720" redirect="true"/>
+  <file name="impressum.html" crc="94054926" seo="true" mt="1644337494720" redirect="true"/>
+  <file name="en.html" crc="82365803" seo="true" mt="1644337761756" redirect="true"/>
+  <file name="legal-notice.html" crc="117703855" seo="true" mt="1644337761756" redirect="true"/>
+  <file name="privacy-policy.html" crc="4036003998" seo="true" mt="1644337761756" redirect="true"/>
+  <site>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <paragraphStyle className="Copy-24-PT" uid="U365"/>
+    <paragraphStyle className="Button1" uid="U398"/>
+    <paragraphStyle className="Head-2" uid="U572"/>
+    <paragraphStyle className="Copy-18pt" uid="U573"/>
+    <paragraphStyle className="Head-3" uid="U622"/>
+    <paragraphStyle className="Copy-20-pt-Footer" uid="U1127"/>
+    <paragraphStyle className="Head-3-Footer" uid="U1128"/>
+    <paragraphStyle className="Footer-16pt" uid="U1257"/>
+    <paragraphStyle className="Head-1" uid="U3260"/>
+    <paragraphStyle className="Headline-3-Akkordeon" uid="U5795"/>
+    <paragraphStyle className="Copy_Akkordeon" uid="U5823"/>
+    <paragraphStyle className="Subline-Akkordeon" uid="U5864"/>
+    <paragraphStyle className="Head-4" uid="U6741"/>
+    <paragraphStyle className="Copy_Zitat" uid="U10383"/>
+    <paragraphStyle className="Absender_Zitat" uid="U10384"/>
+    <paragraphStyle className="Head-4-Datenschutz_Impressum" uid="U36400"/>
+    <paragraphStyle className="Head-3-Datenschutz_Impressum" uid="U36405"/>
+    <paragraphStyle className="Copy_Datenschutz_Impressum" uid="U36407"/>
+    <paragraphStyle className="Head-2-Datenschutz_Impressum" uid="U36410"/>
+    <paragraphStyle className="Head-1-Datenschutz_Impressum" uid="U36411"/>
+    <characterStyle className="Semibold_Green" uid="U366"/>
+    <characterStyle className="Font-awesome-green" uid="U624"/>
+    <characterStyle className="Bold_White_links" uid="U1126"/>
+    <characterStyle className="White" uid="U6556"/>
+    <textLinkStyle className="Link-POS" uid="U6754"/>
+    <textLinkStyle className="Link-NEG" uid="U8250"/>
+    <textLinkStyle className="Link-negativ" uid="U8634"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Home" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U29603" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U28460" maxwidth="640" minwidth="481" squishy="true"/>
+        <breakpoint uid="U11946" maxwidth="960" minwidth="641" squishy="true"/>
+        <breakpoint uid="U77148" maxwidth="1140" minwidth="961" squishy="true"/>
+        <breakpoint uid="U83" maxwidth="1600" minwidth="1141" squishy="true"/>
+        <anchor name="Start" html_id="start" muse_href="anchor:U82:U3603" includeInBPs="U29603,U28460,U11946,U77148,U83"/>
+        <anchor name="Kontakt" html_id="kontakt" muse_href="anchor:U82:U3652" includeInBPs="U29603,U28460,U11946,U77148,U83"/>
+        <anchor name="Leistungen" html_id="leistungen" muse_href="anchor:U82:U3888" includeInBPs="U29603,U28460,U11946,U77148,U83"/>
+        <anchor name="Profil" html_id="profil" muse_href="anchor:U82:U3891" includeInBPs="U29603,U28460,U11946,U77148,U83"/>
+        <anchor name="TOP" html_id="top" muse_href="anchor:U82:U38146" includeInBPs="U29603,U28460,U11946,U77148,U83"/>
+      </page>
+      <masterPage name="Master D" master="U62" uid="U72">
+        <breakpoint uid="U2617" maxwidth="640" minwidth="0" squishy="true"/>
+        <breakpoint uid="U9617" maxwidth="960" minwidth="641" squishy="true"/>
+        <breakpoint uid="U910" maxwidth="1140" minwidth="961" squishy="true"/>
+        <breakpoint uid="U4727" maxwidth="1575" minwidth="1141" squishy="true"/>
+        <breakpoint uid="U820" maxwidth="1600" minwidth="1576" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="1600" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Datenschutz" filename="datenschutz.html" muse_href="page:U5284" master="U72">
+        <breakpoint uid="U37728" maxwidth="640" minwidth="0" squishy="true"/>
+        <breakpoint uid="U37773" maxwidth="960" minwidth="641" squishy="true"/>
+        <breakpoint uid="U37758" maxwidth="1140" minwidth="961" squishy="true"/>
+        <breakpoint uid="U5256" maxwidth="1600" minwidth="1141" squishy="true"/>
+        <anchor name="TOP" html_id="top" muse_href="anchor:U5255:U37040" includeInBPs="U37728,U37773,U37758,U5256"/>
+      </page>
+      <page name="Impressum" filename="impressum.html" muse_href="page:U5314" master="U72">
+        <breakpoint uid="U38560" maxwidth="640" minwidth="0" squishy="true"/>
+        <breakpoint uid="U38545" maxwidth="960" minwidth="641" squishy="true"/>
+        <breakpoint uid="U38530" maxwidth="1140" minwidth="961" squishy="true"/>
+        <breakpoint uid="U5286" maxwidth="1600" minwidth="1141" squishy="true"/>
+        <anchor name="TOP" html_id="top" muse_href="anchor:U5285:U38492" includeInBPs="U38560,U38545,U38530,U5286"/>
+      </page>
+      <page name="en" filename="en.html" muse_href="page:U61979" master="U62206">
+        <breakpoint uid="U61641" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U61747" maxwidth="640" minwidth="481" squishy="true"/>
+        <breakpoint uid="U61450" maxwidth="960" minwidth="641" squishy="true"/>
+        <breakpoint uid="U78678" maxwidth="1140" minwidth="961" squishy="true"/>
+        <breakpoint uid="U61866" maxwidth="1600" minwidth="1141" squishy="true"/>
+        <anchor name="contact" html_id="contact" muse_href="anchor:U61447:U61565" includeInBPs="U61641,U61747,U61450,U78678,U61866"/>
+        <anchor name="services" html_id="services" muse_href="anchor:U61447:U61593" includeInBPs="U61641,U61747,U61450,U78678,U61866"/>
+        <anchor name="profile" html_id="profile" muse_href="anchor:U61447:U61618" includeInBPs="U61641,U61747,U61450,U78678,U61866"/>
+        <anchor name="start" html_id="start" muse_href="anchor:U61447:U61630" includeInBPs="U61641,U61747,U61450,U78678,U61866"/>
+        <anchor name="TOP" html_id="top" muse_href="anchor:U61447:U61639" includeInBPs="U61641,U61747,U61450,U78678,U61866"/>
+      </page>
+      <masterPage name="Master EN" master="U62" uid="U62206">
+        <breakpoint uid="U62652" maxwidth="640" minwidth="0" squishy="true"/>
+        <breakpoint uid="U62766" maxwidth="960" minwidth="641" squishy="true"/>
+        <breakpoint uid="U62441" maxwidth="1140" minwidth="961" squishy="true"/>
+        <breakpoint uid="U62324" maxwidth="1575" minwidth="1141" squishy="true"/>
+        <breakpoint uid="U62209" maxwidth="1600" minwidth="1576" squishy="true"/>
+      </masterPage>
+      <page name="Legal-notice" filename="legal-notice.html" muse_href="page:U69331" master="U62206">
+        <breakpoint uid="U69273" maxwidth="640" minwidth="0" squishy="true"/>
+        <breakpoint uid="U69290" maxwidth="960" minwidth="641" squishy="true"/>
+        <breakpoint uid="U69308" maxwidth="1140" minwidth="961" squishy="true"/>
+        <breakpoint uid="U69249" maxwidth="1600" minwidth="1141" squishy="true"/>
+        <anchor name="TOP" html_id="top" muse_href="anchor:U69243:U69327" includeInBPs="U69273,U69290,U69308,U69249"/>
+      </page>
+      <page name="Privacy-policy" filename="privacy-policy.html" muse_href="page:U69926" master="U62206">
+        <breakpoint uid="U69887" maxwidth="640" minwidth="0" squishy="true"/>
+        <breakpoint uid="U69845" maxwidth="960" minwidth="641" squishy="true"/>
+        <breakpoint uid="U69906" maxwidth="1140" minwidth="961" squishy="true"/>
+        <breakpoint uid="U69870" maxwidth="1600" minwidth="1141" squishy="true"/>
+        <anchor name="TOP" html_id="top" muse_href="anchor:U69838:U69842" includeInBPs="U69887,U69845,U69906,U69870"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
